@@ -3,10 +3,10 @@
     public static void main(String[] args)
     {
  
-        int x = 100, y = 200;
+        int a = 10, y = 20;
  
         System.out.println("Before Swap");
-        System.out.println("x = " + x);
+        System.out.println("a = " + x);
         System.out.println("y = " + y);
  
         int temp = x;
@@ -14,7 +14,7 @@
         y = temp;
  
         System.out.println("After swap");
-        System.out.println("x = " + x);
+        System.out.println("a = " + x);
         System.out.println("y = " + y);
     }
 }pVariables
